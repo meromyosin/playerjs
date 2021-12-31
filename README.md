@@ -1,1 +1,1 @@
-https://malikmiran.github.io/tv
+https://gusmeadows.github.io/playerjs
