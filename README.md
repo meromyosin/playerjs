@@ -1,1 +1,1 @@
-https://gusmeadows.github.io/playerjs
+https://meromyosin.github.io/playerjs
